@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "391747712355",
+    "firebase_url": "https://medizener-144408.firebaseio.com",
+    "project_id": "medizener-144408",
+    "storage_bucket": "medizener-144408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391747712355:android:50b20de6b9b487a3",
+        "android_client_info": {
+          "package_name": "com.medizener.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391747712355-k1aq0vjpgpne8m5caqbpnkjpjvp9hpt4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "391747712355-u1c5c65br93f60es5dtn0ta8mhvdmf89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkZ2NjJKF6HQZY05s7oDPdloyX0iAEF5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,69 @@
+{   
+    "specification": [{
+        "type" : "specification",
+        "name" : "Ayurveda"
+    },{
+        "type" : "specification",
+        "name" : "Cardiologist"
+    },{
+        "type" : "specification",
+        "name" : "Dentist"
+    },{
+        "type" : "specification",
+        "name" : "Dermatologist"
+    },{
+        "type" : "specification",
+        "name" : "Dietitian/Nutritionist"
+    },{
+        "type" : "specification",
+        "name" : "Ear-Nose-Throat (ENT) Specialist"
+    },{
+        "type" : "specification",
+        "name" : "Endocrinologist"
+    },{
+        "type" : "specification",
+        "name" : "Gynaecologist"
+    },{
+        "type" : "specification",
+        "name" : "Gastroenterologist"
+    },{
+        "type" : "specification",
+        "name" : "General Physician"
+    },{
+        "type" : "specification",
+        "name" : "Homeopath"
+    },{
+        "type" : "specification",
+        "name" : "Oncologist"
+    },{
+        "type" : "specification",
+        "name" : "Hematologist"
+    },{
+        "type" : "specification",
+        "name" : "Neurologist"
+    },{
+        "type" : "specification",
+        "name" : "Physiotherapist"
+    },{
+        "type" : "specification",
+        "name" : "Pediatrician"
+    },{
+        "type" : "specification",
+        "name" : "Psychiatrist"
+    },{
+        "type" : "specification",
+        "name" : "Psychologist"
+    },{
+        "type" : "specification",
+        "name" : "Rheumatologist"
+    },{
+        "type" : "specification",
+        "name" : "Ophthalmologist"
+    },{
+        "type" : "specification",
+        "name" : "Orthopedist"
+    },{
+        "type" : "specification",
+        "name" : "Sexologist"
+    }]
+}

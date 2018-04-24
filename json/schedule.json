@@ -1,0 +1,18 @@
+{
+  "data": [{
+    "title": "Reminder",
+    "message": "Your appointment about to start in 1 hr. Please reach out to hospital.",
+    "source": "device",
+    "time": 60
+  },{
+    "title": "Reminder",
+    "message": "Your appointment about to start in 30 min. Please reach out to hospital.",
+    "source": "device",
+    "time": 30
+  },{
+    "title": "Reminder",
+    "message": "Your appointment about to start in 10 min. Please reach out to hospital.",
+    "source": "device",
+    "time": 10
+  }]
+}
